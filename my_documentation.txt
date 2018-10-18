@@ -1,0 +1,49 @@
+The ALGORITHMS Project
+
+--------- Algorithms that i will test---------
+● Arrays: Object that holds items of same type
+● Backtrack: Step by step process to find all possible solution to a problem
+● Tree: Data Structure which is hierarchical in structure
+● Graph: Abstract data type which implements undirected and directed graphs
+● Linkedlist: Basically a list of node which point to next node
+● Map: Basically a key-value pair
+● Maths: Collection of math operation and algorithms involving it to solve problems
+● Matrix: 2D array of items which can perform math operation on them
+● Search: Ability to search using different search algorithms
+● Sort: Ability to sort data using different sorting algorithms
+● String: Fundamental data type in computer science
+
+--------------------------------------------------------------------------------------------------------
+                                              Arrays
+The documentation will get updated with each week as i again better understanding with the Project
+
+The testing target for for the next pull request will be --Arrays--- algorithms.
+Link--      https://github.com/CSUN-COMP587-F18/algorithms/tree/master/algorithms/arrays
+
+delete_nth
+    Basically this implementation solves the particular problem. Given a list lst and a number N, create a new list
+that contains each number of the list at most N times without reordering.
+For example if N = 2, and the input is [1,2,3,1,2,1,2,3], you take [1,2,3,1,2], 
+drop the next [1,2] since this would lead to 1 and 2 being in the result 3 times, and then take 3, 
+which leads to [1,2,3,1,2,3]
+
+-- DO unit test and also use pytest
+
+flatten
+garage
+josephus_problem
+limit
+longest_non_repeat
+max_ones_index
+merge_intervals
+missing_ranges
+plus_one
+rotate
+summarize_ranges
+three_sum
+trimmean
+top_1
+two_sum
+move_zeros
+n_sum
+----------------------------------------------------------------------------------------------------------
